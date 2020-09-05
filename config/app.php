@@ -15,6 +15,9 @@ return [
 
     'name' => env('APP_NAME', 'Laravel'),
 
+    'author_url' => env('APP_AUTHOR_URL', 'https://waguramaurice.com'),
+    'author' => env('APP_AUTHOR', 'Wagura Maurice'),
+
     /*
     |--------------------------------------------------------------------------
     | Application Environment
